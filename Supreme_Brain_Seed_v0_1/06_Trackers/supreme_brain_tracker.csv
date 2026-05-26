@@ -1,0 +1,9 @@
+Branch,Status,Priority,Next Action,Artifact Needed
+Story of Pi,active,High,merge available chapters and map Chapter I-III beats to GUI screens,MD + JSON + future app tab
+GUI/UX,active,High,"create wireframe list: welcome, dashboard, branch detail, prompt vault, tracker, export",MD + JSON + future app tab
+Leadership Doctrine,active,Medium,create source matrix and thesis outline,MD + JSON + future app tab
+Real Estate/Housing,active,Medium,build property evaluation worksheet,MD + JSON + future app tab
+Finance/FNA,active,Medium,create debt input sheet and scenario prompts,MD + JSON + future app tab
+Language Scroll,active,Medium,create daily drill template,MD + JSON + future app tab
+AI Automation Business,active,High,draft 90-day execution plan,MD + JSON + future app tab
+Dreams Board,seeded,Medium,convert dream ideas to project cards,MD + JSON + future app tab

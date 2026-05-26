@@ -1,0 +1,50 @@
+[
+  {
+    "branch": "Story of Pi",
+    "purpose": "Narrative + CS/AI curriculum + GUI/game scenes",
+    "status": "active",
+    "next_action": "merge available chapters and map Chapter I-III beats to GUI screens"
+  },
+  {
+    "branch": "GUI/UX",
+    "purpose": "Accessible app shell, CodeQuest game, Supreme Brain dashboard",
+    "status": "active",
+    "next_action": "create wireframe list: welcome, dashboard, branch detail, prompt vault, tracker, export"
+  },
+  {
+    "branch": "Leadership Doctrine",
+    "purpose": "Thesis integrating leadership authors and lived Marine/Primerica experience",
+    "status": "active",
+    "next_action": "create source matrix and thesis outline"
+  },
+  {
+    "branch": "Real Estate/Housing",
+    "purpose": "VA mortgage, land/build, family compound, accessibility, dreams board",
+    "status": "active",
+    "next_action": "build property evaluation worksheet"
+  },
+  {
+    "branch": "Finance/FNA",
+    "purpose": "Debt efficiency, mortgage/refinance, payoff order, FNA analysis",
+    "status": "active",
+    "next_action": "create debt input sheet and scenario prompts"
+  },
+  {
+    "branch": "Language Scroll",
+    "purpose": "Spanish/French/Bemba comparative immersion",
+    "status": "active",
+    "next_action": "create daily drill template"
+  },
+  {
+    "branch": "AI Automation Business",
+    "purpose": "Faceless content, AI apps, multi-agent workflows, monetization sprint",
+    "status": "active",
+    "next_action": "draft 90-day execution plan"
+  },
+  {
+    "branch": "Dreams Board",
+    "purpose": "long-range housing, accessibility, app, creative, business, family future concepts",
+    "status": "seeded",
+    "next_action": "convert dream ideas to project cards"
+  }
+]

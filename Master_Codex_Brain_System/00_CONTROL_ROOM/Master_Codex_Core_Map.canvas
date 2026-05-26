@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "master",
+      "type": "text",
+      "text": "MASTER CODEX",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "prompt",
+      "type": "file",
+      "file": "01_PROMPT_VAULT/PROMPT_INDEX.md",
+      "x": -450,
+      "y": -220,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "piapp",
+      "type": "file",
+      "file": "02_PROJECT_MAPS/END_THE_STORY_OF_PI.md",
+      "x": 400,
+      "y": -220,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "graph",
+      "type": "file",
+      "file": "03_KNOWLEDGE_GRAPH/GRAPH_SCHEMA.md",
+      "x": -450,
+      "y": 180,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "tools",
+      "type": "file",
+      "file": "04_TOOL_STACK/RECOMMENDED_TOOLS.md",
+      "x": 400,
+      "y": 180,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "access",
+      "type": "file",
+      "file": "07_ACCESSIBILITY_AND_VETERAN_SYSTEMS/ACCESSIBILITY_DOCTRINE.md",
+      "x": 0,
+      "y": 350,
+      "width": 340,
+      "height": 140
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "master",
+      "fromSide": "left",
+      "toNode": "prompt",
+      "toSide": "right"
+    },
+    {
+      "id": "e2",
+      "fromNode": "master",
+      "fromSide": "right",
+      "toNode": "piapp",
+      "toSide": "left"
+    },
+    {
+      "id": "e3",
+      "fromNode": "master",
+      "fromSide": "left",
+      "toNode": "graph",
+      "toSide": "right"
+    },
+    {
+      "id": "e4",
+      "fromNode": "master",
+      "fromSide": "right",
+      "toNode": "tools",
+      "toSide": "left"
+    },
+    {
+      "id": "e5",
+      "fromNode": "master",
+      "fromSide": "bottom",
+      "toNode": "access",
+      "toSide": "top"
+    }
+  ]
+}

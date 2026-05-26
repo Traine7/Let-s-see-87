@@ -1,0 +1,156 @@
+{
+  "execution_plan": {
+    "phase": "PHASE 1: AI BUSINESS (90-DAY SPRINT)",
+    "operator": "Cpl Tremain A. Wade Jr., USMC (Ret.)",
+    "start_date": "2026-05-13T12:49:27.751068",
+    "end_date": "2026-08-11T12:49:27.751068",
+    "month_1": {
+      "name": "Foundation & Email Automation",
+      "dates": "May 13 - Jun 12",
+      "focus": "Email Sequences (EASIEST TO START)",
+      "targets": [
+        "Build welcome sequence (5 emails)",
+        "Create nurture cycle (3 emails, repeating every 3 days)",
+        "Set up weekly digest template",
+        "Collect 100 subscribers",
+        "Test with internal list",
+        "Generate 1st revenue signal"
+      ],
+      "deliverables": [
+        "\u2713 Email funnel live (automation in ConvertKit/Mailchimp)",
+        "\u2713 Landing page for lead magnet",
+        "\u2713 5-email welcome sequence tested",
+        "\u2713 Nurture cycle running",
+        "\u2713 Analytics dashboard (opens, clicks, conversions)"
+      ]
+    },
+    "month_2": {
+      "name": "Scale Email + Launch Blog",
+      "dates": "Jun 13 - Jul 12",
+      "focus": "Blog SEO + Lead Magnets",
+      "targets": [
+        "Publish 4 pillar blog posts (5K words each)",
+        "Create 2 lead magnets (guide + checklist)",
+        "Scale email list to 500 subscribers",
+        "Hit $500+ MRR from email offers"
+      ],
+      "deliverables": [
+        "\u2713 Blog live with 4 pillar posts + 4 supporting posts",
+        "\u2713 SEO optimized (target keywords ranked in top 30)",
+        "\u2713 2 lead magnets live + converting",
+        "\u2713 Email revenue dashboard (subscriptions, affiliate clicks)"
+      ]
+    },
+    "month_3": {
+      "name": "Video Automation + Full Revenue Model",
+      "dates": "Jul 13 - Aug 11",
+      "focus": "Video Scripting + Monetization",
+      "targets": [
+        "YouTube channel live with 5+ videos",
+        "Video script automation running weekly",
+        "1000+ email subscribers",
+        "Hit $2000+ MRR total (email + blog affiliate + YouTube partners)"
+      ],
+      "deliverables": [
+        "\u2713 YouTube channel with 5 fully scripted + published videos",
+        "\u2713 Video script automation pipeline (2-4 videos/week)",
+        "\u2713 Cross-promotion: Blog \u2192 YouTube \u2192 Email",
+        "\u2713 Revenue dashboard showing 3 income streams"
+      ]
+    }
+  },
+  "pipelines": [
+    {
+      "id": "email_automation_sequences",
+      "name": "Email Automation Sequences",
+      "content_type": "email",
+      "description": "Evergreen welcome + nurture + weekly digest sequences. High-volume, low-lift, predictable ROI.",
+      "mvp": "5 email welcome sequence + 3-email nurture cycle + weekly digest. 1 list segment. 100 leads per month.",
+      "complexity": 2,
+      "revenue_potential": 7,
+      "score": 12,
+      "resources": {
+        "tools": [
+          "ConvertKit",
+          "Mailchimp",
+          "ActiveCampaign",
+          "OpenAI API"
+        ],
+        "time": "20-30 hrs setup + template creation",
+        "cost": "$50-200/month tools + $20 API credits",
+        "output_capacity": "Unlimited sequences, scales with subscribers"
+      },
+      "status": "seeded",
+      "created_at": "2026-05-13T12:49:27.751051"
+    },
+    {
+      "id": "blog_+_seo_authority_hub",
+      "name": "Blog + SEO Authority Hub",
+      "content_type": "blog_seo",
+      "description": "2-4 blog posts/month targeting high-intent keywords. Feeds email sequences, builds organic traffic.",
+      "mvp": "4 pillar content pieces (5K words each) + 8 supporting blog posts (2K each). Rank for 20 keywords.",
+      "complexity": 4,
+      "revenue_potential": 8,
+      "score": 12,
+      "resources": {
+        "tools": [
+          "WordPress",
+          "Ahrefs/SEMrush",
+          "OpenAI",
+          "Grammarly"
+        ],
+        "time": "40-50 hrs content creation + optimization",
+        "cost": "$150-300/month tools",
+        "output_capacity": "8-12 posts/month at scale"
+      },
+      "status": "seeded",
+      "created_at": "2026-05-13T12:49:27.751060"
+    },
+    {
+      "id": "video_script_+_youtube_automation",
+      "name": "Video Script + YouTube Automation",
+      "content_type": "video",
+      "description": "AI-generated video scripts (tutorials, case studies, explainers). Auto-publish with Synthesia or similar.",
+      "mvp": "4 video scripts + 2 fully automated videos published. YouTube channel seeded with 5 videos.",
+      "complexity": 5,
+      "revenue_potential": 8,
+      "score": 11,
+      "resources": {
+        "tools": [
+          "OpenAI",
+          "Synthesia/HeyGen",
+          "CapCut",
+          "YouTube API"
+        ],
+        "time": "30-40 hrs script creation + video setup",
+        "cost": "$100-200/month SaaS + $20 API",
+        "output_capacity": "2-4 videos/week at full automation"
+      },
+      "status": "seeded",
+      "created_at": "2026-05-13T12:49:27.751063"
+    },
+    {
+      "id": "lead_magnets_&_opt-in_gates",
+      "name": "Lead Magnets & Opt-In Gates",
+      "content_type": "lead_magnets",
+      "description": "PDF guides, checklists, templates, assessments. Drive email signup. 1-week turnaround per asset.",
+      "mvp": "3 high-converting lead magnets (guide + checklist + template). Drive 50 leads/week.",
+      "complexity": 3,
+      "revenue_potential": 6,
+      "score": 9,
+      "resources": {
+        "tools": [
+          "Canva",
+          "PDFKit",
+          "OpenAI",
+          "ConvertKit landing pages"
+        ],
+        "time": "15-20 hrs design + copy",
+        "cost": "$50/month Canva Pro",
+        "output_capacity": "1 new magnet per week"
+      },
+      "status": "seeded",
+      "created_at": "2026-05-13T12:49:27.751065"
+    }
+  ]
+}

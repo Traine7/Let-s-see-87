@@ -1,0 +1,112 @@
+{
+  "board_name": "Dreams Board",
+  "operator": "Cpl Tremain A. Wade Jr., USMC (Ret.)",
+  "total_dreams": 8,
+  "exported_at": "2026-05-13T12:44:04.717029",
+  "cards": [
+    {
+      "id": "supreme_brain_app",
+      "dream_name": "Supreme Brain App",
+      "priority": 9,
+      "status": "seeded",
+      "why_matters": "Central operating system for all life branches \u2014 knowledge vault, automation hub, dashboard. Without it, all systems are scattered.",
+      "minimum_viable_version": "Single-page dashboard with 8 branch tabs, searchable prompt vault, tracker view. No export yet.",
+      "resources_needed": "Python (Flask/FastAPI), Postgres, React or HTML5, ~40 hrs dev",
+      "first_action": "Create clickable wireframe (Figma), define data schema, build first 3 screens",
+      "risk": "Scope creep, complexity explosion. Mitigation: rigid MVP deadline (2 weeks).",
+      "progress": 0,
+      "created_at": "2026-05-13T12:44:04.716505"
+    },
+    {
+      "id": "story_of_pi_game_&_curriculum",
+      "dream_name": "Story of Pi Game & Curriculum",
+      "priority": 8,
+      "status": "seeded",
+      "why_matters": "Merge manuscript, CS curriculum, and accessible narrative game. Opens teaching/story IP channel. Feeds app GUI.",
+      "minimum_viable_version": "Story of Pi Chapters I-III + 3 CodeQuest game screens. Proof narrative can become interactive.",
+      "resources_needed": "Story chapters (5K words), game wireframes, character sprites, ~60 hrs design/dev",
+      "first_action": "Index all available manuscript fragments, create scene-to-screen map for Ch. I, prototype first game screen",
+      "risk": "Scope explosion (full game impossible in 2 weeks). Mitigation: lock scope to 3 scenes.",
+      "progress": 0,
+      "created_at": "2026-05-13T12:44:04.716515"
+    },
+    {
+      "id": "accessible_futuristic_home",
+      "dream_name": "Accessible Futuristic Home",
+      "priority": 7,
+      "status": "seeded",
+      "why_matters": "Physical infrastructure for accessibility, work-from-home autonomy, and guest space. Proves concepts can be built.",
+      "minimum_viable_version": "Design doc: shower accessibility, office/studio layout, accessible kitchen. Blueprint for one room.",
+      "resources_needed": "Architect consultation, accessibility code research, contractor estimates, ~30 hrs research + design",
+      "first_action": "Audit current home for accessibility barriers, sketch futuristic shower concept, find VA accessibility grants",
+      "risk": "High cost. Mitigation: phase into annual budget, start with one room.",
+      "progress": 0,
+      "created_at": "2026-05-13T12:44:04.716518"
+    },
+    {
+      "id": "real_estate_&_family_compound",
+      "dream_name": "Real Estate & Family Compound",
+      "priority": 8,
+      "status": "seeded",
+      "why_matters": "Multi-unit property as financial stabilizer, family gathering space, and VA community hub. Long-term wealth + purpose.",
+      "minimum_viable_version": "Property checklist + zone map. Identify 5 candidate properties. Pre-approval for loan.",
+      "resources_needed": "Real estate agent, VA appraiser, loan pre-qual, market research (VA market, land), ~50 hrs research",
+      "first_action": "List criteria (acreage, accessibility, proximity to VA, cost), search Zillow/MLS, schedule 3 property tours",
+      "risk": "Market volatility, financing. Mitigation: buy signals + 18-month timeline.",
+      "progress": 0,
+      "created_at": "2026-05-13T12:44:04.716520"
+    },
+    {
+      "id": "ai_business_&_content_systems",
+      "dream_name": "AI Business & Content Systems",
+      "priority": 9,
+      "status": "seeded",
+      "why_matters": "Faceless content automation = recurring revenue stream. Feeds Story of Pi game, app tutorials, and lead magnets.",
+      "minimum_viable_version": "First 90-day sprint: 3 faceless content pipelines (video scripting, blog + SEO, email sequences). One goes live.",
+      "resources_needed": "Content templates, API keys (OpenAI, ElevenLabs, video API), ~80 hrs build + testing",
+      "first_action": "Map 3 content types, pick easiest one (email sequences), build first 5-message automation, run test campaign",
+      "risk": "Quality control + brand risk. Mitigation: human review on every output, start hidden.",
+      "progress": 0,
+      "created_at": "2026-05-13T12:44:04.716522"
+    },
+    {
+      "id": "leadership_thesis_&_doctrine",
+      "dream_name": "Leadership Thesis & Doctrine",
+      "priority": 6,
+      "status": "seeded",
+      "why_matters": "Distill lived experience + author research into coherent doctrine. Feeds coaching, app tutorials, and teaching IP.",
+      "minimum_viable_version": "Thesis outline + 3 deep-dive chapters (Decision-Making, Resilience, Service). Source matrix.",
+      "resources_needed": "Author research, writing (10K words), interviews, ~60 hrs writing + synthesis",
+      "first_action": "List 5 leadership authors to integrate, outline thesis structure (5 chapters), write Chapter 1 (Decision-Making)",
+      "risk": "Over-theorizing. Mitigation: anchor every point in lived Marine/Primerica example.",
+      "progress": 0,
+      "created_at": "2026-05-13T12:44:04.716523"
+    },
+    {
+      "id": "language_immersion_system",
+      "dream_name": "Language Immersion System",
+      "priority": 5,
+      "status": "seeded",
+      "why_matters": "Spanish/French/Bemba fluency = access to global markets + cultural depth. Feeds app, content, and personal mastery.",
+      "minimum_viable_version": "Daily drill template + 30-day Spanish sprint (vocabulary + conversation). Shared deck format.",
+      "resources_needed": "Duolingo Pro, Anki, iTalki tutor (2 hrs/week), content creation, ~20 hrs setup",
+      "first_action": "Create Anki deck (100 core Spanish phrases), schedule 2 iTalki lessons, build first 5-day drill sequence",
+      "risk": "Inconsistent practice. Mitigation: daily app notification + public accountability.",
+      "progress": 0,
+      "created_at": "2026-05-13T12:44:04.716525"
+    },
+    {
+      "id": "adaptive_health_&_mobility",
+      "dream_name": "Adaptive Health & Mobility",
+      "priority": 7,
+      "status": "seeded",
+      "why_matters": "Physical autonomy = independence. Feeds real estate design, app accessibility, and personal quality of life.",
+      "minimum_viable_version": "Health audit (PT assessment, mobility checklist), equipment list, 3-month protocol. Accessibility modifications for home.",
+      "resources_needed": "PT evaluation, adaptive equipment, research, ~25 hrs assessment + shopping",
+      "first_action": "Schedule VA PT eval, take mobility baseline (flexibility/strength), list 5 adaptive tools to trial",
+      "risk": "Overextension. Mitigation: focus on top-3 barriers, work with PT to sequence.",
+      "progress": 0,
+      "created_at": "2026-05-13T12:44:04.716527"
+    }
+  ]
+}
